@@ -53,8 +53,8 @@ function MyApp({ Component, pageProps }) {
       }}
     />
      
- <Script strategy="lazyOnload" id="gtag" async src={`https://www.googletagmanager.com/gtag/js?id=G-85ZR9XPNTG1`}></Script>
- <Script strategy="lazyOnload" id=" disBledKey ">
+ <Script strategy="lazyOnload" id="g-tag" async src={`https://www.googletagmanager.com/gtag/js?id=G-85ZR9XPNTG1`}></Script>
+ <Script strategy="lazyOnload" id=" disBled-Key ">
   {`
    window.dataLayer = window.dataLayer || [];
    function gtag(){dataLayer.push(arguments);}
