@@ -54,7 +54,7 @@ function MyApp({ Component, pageProps }) {
     />
      
  <Script strategy="lazyOnload" id="g-tag" async src={`https://www.googletagmanager.com/gtag/js?id=G-85ZR9XPNTG1`}></Script>
- <Script strategy="lazyOnload" id=" disBled-Key ">
+ <Script strategy="lazyOnload" id=" get-g-tag-data ">
   {`
    window.dataLayer = window.dataLayer || [];
    function gtag(){dataLayer.push(arguments);}
@@ -65,7 +65,7 @@ function MyApp({ Component, pageProps }) {
   }
  </Script>
  <Script strategy='lazyOnload' src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></Script>
- <Script strategy='lazyOnload'>
+ <Script strategy='lazyOnload' id="disable-key">
  
  {`
 document.addEventListener("contextmenu", function(event){
