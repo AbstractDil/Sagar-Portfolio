@@ -34,12 +34,12 @@ const about = () => {
   <div className="container px-5 py-20 mx-auto flex flex-col">
     <div className="lg:w-4/6 mx-auto">
       <div className="rounded-lg  overflow-hidden">
-        <Image width={`100`} height={`100`} layout='responsive' src="/Images/1.jpg" alt="Motivational Quotes"/>
+        <Image width={100} height={100} layout='responsive' src="/Images/1.jpg" alt="Motivational Quotes"/>
       </div>
       <div className="flex flex-col sm:flex-row mt-10 ">
         <div className="sm:w-1/3 text-center sm:pr-8 sm:py-8">
           <div className=" rounded-full inline-flex items-center justify-center bg-teal-300 text-gray-400 p-2">
-          <Image src="/Images/sg.png"  height={`70`} width={`70`} className="w-full h-full p-2  " alt="Sagar Nandy" />
+          <Image src="/Images/sg.png"  height={70} width={70} className="w-full h-full p-2  " alt="Sagar Nandy" />
 
           </div>
           <div className="flex flex-col items-center text-center justify-center">

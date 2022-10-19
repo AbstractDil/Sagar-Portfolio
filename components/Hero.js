@@ -50,7 +50,7 @@ const Hero = () => {
       </div>
     </div>
     <div className="lg:max-w-full lg:w-1/4 md:w-1/2 w-5/6 p-7 rounded-full bg-teal-400">
-      <Image className=" h-100 rounded-full bg-white "  src="/Images/sg6.png" height={`400`} width={`400`}  alt="Sagar Nandy" />
+      <Image className=" h-100 rounded-full bg-white "  src="/Images/sg6.png" height={400} width={400}  alt="Sagar Nandy" />
     </div>
   </div>
 </section>

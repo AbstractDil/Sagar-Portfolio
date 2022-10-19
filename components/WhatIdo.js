@@ -111,7 +111,7 @@ const WhatIdo = () => {
     <div className="flex flex-wrap -m-4">
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-teal-200 border-opacity-60 rounded-lg overflow-hidden hover:shadow-lg ">
-          <Image className="lg:h-48 md:h-36 w-full object-cover object-center"  height={`300`} width={`600`} layout="responsive" src="/Images/PHP.jpg" alt="PHP"/>
+          <Image className="lg:h-48 md:h-36 w-full object-cover object-center"  height={300} width={600} layout="responsive" src="/Images/PHP.jpg" alt="PHP"/>
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Programming Language</h2>
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">PHP  <span className="inline-block p-1 leading-none text-center whitespace-nowrap text-sm align-baseline font-bold bg-pink-600 text-white rounded">Love</span> </h1>
@@ -132,7 +132,7 @@ const WhatIdo = () => {
       </div>
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-teal-200 border-opacity-60 rounded-lg overflow-hidden hover:shadow-lg ">
-          <Image className="lg:h-48 md:h-36 w-full object-cover object-center" height={`300`} width={`600`} layout="responsive" src="/Images/node.png" alt="Node Js"/>
+          <Image className="lg:h-48 md:h-36 w-full object-cover object-center" height={300} width={600} layout="responsive" src="/Images/node.png" alt="Node Js"/>
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Programming Language</h2>
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Node Js <span className="inline-block p-1 leading-none text-center whitespace-nowrap text-sm align-baseline font-bold bg-pink-600 text-white rounded">Crush</span><span className="inline-block p-1 mx-1 leading-none text-center whitespace-nowrap text-sm align-baseline font-bold bg-indigo-600 text-white rounded">Recently Started</span></h1>
@@ -154,7 +154,7 @@ const WhatIdo = () => {
 
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-teal-200 border-opacity-60 rounded-lg overflow-hidden hover:shadow-lg ">
-          <Image className="lg:h-48 md:h-36 w-full object-cover object-center" height={`300`} width={`600`} layout="responsive" src="/Images/c-prg.cms" alt="C Programming"/>
+          <Image className="lg:h-48 md:h-36 w-full object-cover object-center" height={300} width={600} layout="responsive" src="/Images/c-prg.cms" alt="C Programming"/>
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Programming Language</h2>
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">C Programming</h1>
@@ -184,7 +184,7 @@ const WhatIdo = () => {
     <div className="flex flex-wrap -m-4">
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-teal-200 border-opacity-60 rounded-lg overflow-hidden hover:shadow-lg ">
-          <Image className="lg:h-48 md:h-36 w-full object-cover object-center"height={`300`} width={`600`} layout="responsive" src="/Images/Git.jpg" alt="Git"/>
+          <Image className="lg:h-48 md:h-36 w-full object-cover object-center"height={300} width={600} layout="responsive" src="/Images/Git.jpg" alt="Git"/>
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Version Control</h2>
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Git  </h1>
@@ -205,7 +205,7 @@ const WhatIdo = () => {
       </div>
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-teal-200 border-opacity-60 rounded-lg overflow-hidden hover:shadow-lg ">
-          <Image className="lg:h-48 md:h-36 w-full object-cover object-center" height={`300`} width={`600`} layout="responsive" src="/Images/sanity.webp" alt="Sanity - A Headless CMS"/>
+          <Image className="lg:h-48 md:h-36 w-full object-cover object-center" height={300} width={600} layout="responsive" src="/Images/sanity.webp" alt="Sanity - A Headless CMS"/>
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Content Management System - Headless CMS</h2>
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Sanity CMS <span className="inline-block p-1 mx-1 leading-none text-center whitespace-nowrap text-sm align-baseline font-bold bg-indigo-600 text-white rounded">Recently Started</span></h1>
@@ -227,7 +227,7 @@ const WhatIdo = () => {
 
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-teal-200 border-opacity-60 rounded-lg overflow-hidden hover:shadow-lg ">
-          <Image className="lg:h-48 md:h-36 w-full object-cover object-center" height={`300`} width={`600`} layout="responsive" src="/Images/mysql.png" alt="MySQL"/>
+          <Image className="lg:h-48 md:h-36 w-full object-cover object-center" height={300} width={600} layout="responsive" src="/Images/mysql.png" alt="MySQL"/>
           <div className="p-6">
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Database Management System</h2>
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">MySQL </h1>

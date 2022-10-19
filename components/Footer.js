@@ -11,7 +11,7 @@ const Footer = () => {
     <div className="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left md:mt-0 mt-10 ">
       <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900  ">
     <div className='bg-teal-500 rounded-full pt-2 pb-1 px-2'>
-        <Image src="/Images/sg.png"   width={`40` } height={`40`}  alt="Sagar Nandy"/>
+        <Image src="/Images/sg.png"   width={40 } height={40}  alt="Sagar Nandy"/>
         </div>
         <span className="ml-3 text-xl">Sagar Nandy</span>
       </a>

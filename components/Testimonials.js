@@ -16,7 +16,7 @@ const Testimonials = () => {
           </svg>
           <p className="leading-relaxed mb-6">"The race should be with your own self,not with others. Focus on your goal only,the whole world will adjust..."</p>
           <a className="inline-flex items-center">
-            <Image alt="testimonial"  src="/Images/user.png" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" width={`30` } height={`30`} />
+            <Image alt="testimonial"  src="/Images/user.png" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" width={30 } height={30} />
             <span className="flex-grow flex flex-col pl-4">
               <span className="title-font font-medium text-gray-900">Sreeparna Mukherjee</span>
               <span className="text-gray-500 text-sm">M.A. in English</span>
@@ -31,7 +31,7 @@ const Testimonials = () => {
           </svg>
           <p className="leading-relaxed mb-6">"Best wishes for your future. "</p>
           <a className="inline-flex items-center">
-            <Image alt="testimonial"  src="/Images/user.png" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" width={`30` } height={`30`} />
+            <Image alt="testimonial"  src="/Images/user.png" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" width={30 } height={30} />
             <span className="flex-grow flex flex-col pl-4">
               <span className="title-font font-medium text-gray-900">Ankhi Pramanik</span>
               <span className="text-gray-500 text-sm">M.Sc in Zoology</span>
@@ -46,7 +46,7 @@ const Testimonials = () => {
           </svg>
           <p className="leading-relaxed mb-6">"Everything will be right, just work hard with full concentration...😊😊."</p>
           <a className="inline-flex items-center">
-            <Image alt="testimonial"  src="/Images/user.png" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" width={`30` } height={`30`} />
+            <Image alt="testimonial"  src="/Images/user.png" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" width={30 } height={30} />
             <span className="flex-grow flex flex-col pl-4">
               <span className="title-font font-medium text-gray-900">Shilpa Mondal</span>
               <span className="text-gray-500 text-sm">M.Sc in Applied Mathematics</span>
@@ -61,7 +61,7 @@ const Testimonials = () => {
           </svg>
           <p className="leading-relaxed mb-6">"Carry On ..."</p> 
           <a className="inline-flex items-center">
-            <Image alt="testimonial" src="/Images/user.png" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "   width={`30` } height={`30`} />
+            <Image alt="testimonial" src="/Images/user.png" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center "   width={30 } height={30} />
             <span className="flex-grow flex flex-col pl-4">
               <span className="title-font font-medium text-gray-900">Priyanka Dey</span>
               <span className="text-gray-500 text-sm">M.Sc in Botany</span>
