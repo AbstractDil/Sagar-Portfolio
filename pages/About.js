@@ -50,7 +50,7 @@ const about = () => {
         </div>
         <div className="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
           <p className="leading-relaxed text-lg mb-4">Hi Guys, Welcome To My Website. Myself Sagar Nandy,
-I'm Graduated In Mathematics Honours From Santipur College Under University Of Kalyani.I Am Learning Web Development As My Interest. I Am Just New To The Web Development And Learn Basics Of Web Development. This Is My Fifth Website Made Using HTML,CSS, JavaScript And Bootsrap. I Love Javascript Most Because It Provides Many Functionality To Make A Website With User Interaction. But I Am Not A Master Of JavaScript. But I Tried Hard To Learn Web Development.</p>
+I&apos;m Graduated In Mathematics Honours From Santipur College Under University Of Kalyani.I Am Learning Web Development As My Interest. I Am Just New To The Web Development And Learn Basics Of Web Development. This Is My Fifth Website Made Using HTML,CSS, JavaScript And Bootsrap. I Love Javascript Most Because It Provides Many Functionality To Make A Website With User Interaction. But I Am Not A Master Of JavaScript. But I Tried Hard To Learn Web Development.</p>
 
 <p className="leading-relaxed text-lg mb-4"> I Have Already Completed Basics Of FrontEnd Development. Now I Am Learning Backend Development As My Interest i.e PHP & Node Js. I Wanted To Be A Web Developer In Future. I Like To Make Website.</p>
 

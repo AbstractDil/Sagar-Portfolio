@@ -17,7 +17,7 @@ const WhatIdo = () => {
     <div className="  bg-green-100 rounded-lg py-5 px-6 mb-3 text-base text-green-700 inline-flex items-center w-full" role="alert">
 
   <marquee behavior="alternate" onMouseOver={stop} onMouseOut={mout} scrolldelay="4" width="100%">
-        <b className="text-2xl"><i className="fa fa-bullhorn"></i> <code>'Dhoke Ne Tere Haame Coding Sikha Diya'</code> - Sagar Nandy</b>
+        <b className="text-2xl"><i className="fa fa-bullhorn"></i> <code>Dhoke Ne Tere Haame Coding Sikha Diya</code> - Sagar Nandy</b>
       </marquee>
 </div>
 </div>
