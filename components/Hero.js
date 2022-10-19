@@ -35,7 +35,7 @@ const Hero = () => {
 <section className="text-gray-600 body-font">
   <div className="container mx-auto flex px-5 py-14 md:flex-row flex-col items-center">
     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center md:py-10">
-      <h1 className="title-font sm:text-5xl  text-6xl mb-6 font-bold text-teal-500 ml-4">HI, I'm 
+      <h1 className="title-font sm:text-5xl  text-6xl mb-6 font-bold text-teal-500 ml-4">HI, I&apos;m 
              <span className="text-teal-600">{text}<span className='cursor'>|</span></span>
       </h1>
       <p className="mb-5 leading-relaxed ml-4 text-xl">A Junior Web Developer with 1 year experience from Nadia, West Bengal. I love to build website and convert custom web design to a template. Recently I started to learn backend development using PHP and Node Js with the help of Express Js.</p>
