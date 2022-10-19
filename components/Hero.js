@@ -42,7 +42,7 @@ const Hero = () => {
       <p className="ml-4 mb-10 text-3xl font-bold text-teal-500">Lets Learn Together &amp; Build Something New.</p>
       
       <div className="flex justify-center ml-4 space-x-2 ">
-        <button className="inline-flex text-white bg-teal-500 border-0 py-2 px-6 focus:outline-none hover:bg-teal-600 rounded-full text-lg" onClick={hireMe}>I'm Available</button>
+        <button className="inline-flex text-white bg-teal-500 border-0 py-2 px-6 focus:outline-none hover:bg-teal-600 rounded-full text-lg" onClick={hireMe}>I&apos;m Available</button>
         <button className="inline-flex text-white bg-teal-700 border-0 py-2 px-6 space-x-1 focus:outline-none hover:bg-teal-500 rounded-full text-lg" onClick={cvAlert}>
 <i className='fa fa-file-pdf-o space-x-4'/>
             <span>Download CV</span></button>
